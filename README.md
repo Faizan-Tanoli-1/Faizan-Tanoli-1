@@ -9,4 +9,4 @@
 - 📚 Currently learning Web Development (Full-Stack), WordPress, Flutter & Kotlin <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Faizan's github stats](https://github-readme-stats.vercel.app/api?username=Faizan-Tanoli-1_icons=true&theme=radical&count_private=true&hide_rank=false)
+![Faizan's github stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true&hide_rank=false)
